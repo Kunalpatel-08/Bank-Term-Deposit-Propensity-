@@ -1,0 +1,8 @@
+# Template. Section 12 of the notebook writes the exact, pinned version of this file —
+# replace this one with the generated one (xgboost and scikit-learn versions must match Colab).
+streamlit>=1.52
+pandas
+numpy
+joblib
+scikit-learn
+xgboost==3.4.1
